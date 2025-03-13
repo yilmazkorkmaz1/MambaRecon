@@ -1,6 +1,9 @@
 # MambaRecon
 Official Implementation for MambaRecon: MRI Reconstruction with Structured State Space Models. Recently featured at WACV 2025. [Paper Link](https://openaccess.thecvf.com/content/WACV2025/html/Korkmaz_MambaRecon_MRI_Reconstruction_with_Structured_State_Space_Models_WACV_2025_paper.html)
 
+![image](https://github.com/user-attachments/assets/2f5656e4-8897-4875-8a8c-19156242bce0)
+
+
 ## Installation
 Clone the repository:
 ```
