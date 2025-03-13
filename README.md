@@ -19,7 +19,6 @@ Install causal convolution and mamba packages:
 cd casual-conv1d
 
 python setup.py install
-
 ```
 
 ```
